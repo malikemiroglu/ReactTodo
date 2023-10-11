@@ -1,5 +1,7 @@
 # React ile To Do List Uygulaması
 
+![TODO](./src/img/todolistReact.png)
+
 Bu proje, basit bir görev yönetim uygulamasıdır. Kullanıcılar, görevleri ekleyebilir, düzenleyebilir, tamamlayabilir ve silebilirler.
 
 ## Kurulum ve Çalıştırma
